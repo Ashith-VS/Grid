@@ -1,0 +1,83 @@
+{
+  "direction": {
+    "title": "direction",
+    "type": "radio",
+    "name": "direction",
+    "option": [
+      {
+        "id": "row",
+        "label": "row"
+      },
+      {
+        "id": "row-reverse",
+        "label": "row-reverse"
+      },
+      {
+        "id": "column",
+        "label": "column"
+      },
+      {
+        "id": "column-reverse",
+        "label": "column-reverse"
+      }
+    ]
+  },
+  "justifyContent": {
+    "title": "justifyContent",
+    "type": "radio",
+    "name": "justifyContent",
+    "option": [
+      {
+        "id": "flex-Start",
+        "label": "flex-Start"
+      },
+      {
+        "id": "center",
+        "label": "center"
+      },
+      {
+        "id": "flex-end",
+        "label": "flex-end"
+      },
+      {
+        "id": "space-between",
+        "label": "space-between"
+      },
+      {
+        "id": "space-around",
+        "label": "space-around"
+      },
+      {
+        "id": "space-evenly",
+        "label": "space-evenly"
+      }
+    ]
+  },
+  "alignItems": {
+    "title": "alignItems",
+    "type": "radio",
+    "name": "alignItems",
+    "option": [
+      {
+        "id": "flex-Start",
+        "label": "flex-Start"
+      },
+      {
+        "id": "center",
+        "label": "center"
+      },
+      {
+        "id": "flex-end",
+        "label": "flex-end"
+      },
+      {
+        "id": "stretch",
+        "label": "stretch"
+      },
+      {
+        "id": "baseline",
+        "label": "baseline"
+      }
+    ]
+  }
+}
